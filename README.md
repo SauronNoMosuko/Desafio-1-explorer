@@ -13,6 +13,8 @@
 
 > Posicionamentos de elementos usando CSS
 
+> Adquirir experiência em corrigir Bugs com um desafio muito bem elaborado pela Rocketseat
+
 <h4>
   Por mais que seja  coisas que eu já havia aprendido em outras maratonas como a Maratona Explorer 3 (a maioria dos pontos), foi de grande proveito adquirir cada vez mais experiência nessa área de trabalho incrível! 🚀💜 
 </h4>
