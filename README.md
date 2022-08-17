@@ -16,4 +16,6 @@
 <h4>
   Por mais que seja  coisas que eu já havia aprendido em outras maratonas como a Maratona Explorer 3 (a maioria dos pontos), foi de grande proveito adquirir cada vez mais experiência nessa área de trabalho incrível! 🚀💜 
 </h4>
+
+ <a href="file:///C:/Users/dougl/OneDrive/Área%20de%20Trabalho/Explorer/Index.html" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
