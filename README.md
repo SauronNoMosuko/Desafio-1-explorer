@@ -19,5 +19,9 @@
   Por mais que seja  coisas que eu já havia aprendido em outras maratonas como a Maratona Explorer 3 (a maioria dos pontos), foi de grande proveito adquirir cada vez mais experiência nessa área de trabalho incrível! 🚀💜 
 </h4>
 
+<h4>
+  Preferi enviar o código da forma do codepen pra ter experiência em todas as áreas, vou colocando todos as coisas erradas no código do desafio abaixo (se não estiver abaixo é por eu não ter tido tempo de corrigir ainda mas vou por.):  
+</h4>
+
  <a href="https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01/duplicate" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
